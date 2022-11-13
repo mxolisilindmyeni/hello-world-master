@@ -1,6 +1,6 @@
 <form action="action_page.php"><br>
 	<dev colour='green'><h1>This is my first application to deploy with the use of Jenkins, Docker running on Tomcat apache application server</h1></br></dev>
-	<br>Ansible playbooks<br>
+	<br>Ansible playbook with DockerHub<br>
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
